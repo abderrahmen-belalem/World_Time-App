@@ -1,19 +1,16 @@
-# World_Time-App
+# world_time
 
-## Description
+A new Flutter application.
 
-An app which shows then time all over some countries capital, also the background-image changes depend on the time of the place you are selecting.
+## Getting Started
 
-## Screenshots
+This project is a starting point for a Flutter application.
 
+A few resources to get you started if this is your first Flutter project:
 
+- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-## Tools & languages
-
-* Flutter (Framework)
-* Dart (Logic)
-* Android Studio (Text Editor)
-
-## Contribution
-
-Feel free to fork this project and add whatever you like. If you have any suggestions or any comments please feel free to contact me or to open an issue.
+For help getting started with Flutter, view our
+[online documentation](https://flutter.dev/docs), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
