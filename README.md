@@ -6,6 +6,8 @@ An app which shows then time all over some countries capital, also the backgroun
 
 ## Screenshots
 
+<img src="screenshots/list.jpg" width="200" /> <img src="screenshots/day.jpg" width="200" /> <img src="screenshots/night.jpg" width="200" />
+
 
 ## Tools & languages
 
